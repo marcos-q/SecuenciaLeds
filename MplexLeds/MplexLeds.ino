@@ -7,7 +7,7 @@
  *  
  *  Para encender 8 leds "simultáneamente", por ejemplo, ilumina el primero durante 2 ms. 
  *  Lo apaga y enciende el siguiente led durante otros 2s. Lo apaga y continua con el siguiente hasta el octavo.
- *  Así una y otra vez. Al repetirse el proceso a alta frecuencia, nuestro ojo percibe los lec iluminados permanente y simultáneamente.
+ *  Así una y otra vez. Al repetirse el proceso a alta frecuencia, nuestro ojo percibe los leds iluminados permanente y simultáneamente.
  *  
  *  De esta forma conseguimos activar tantas salidas como necesitemos sin superar la corriente máxima de salida y sobrecargar nuestro arduino.
  *  
